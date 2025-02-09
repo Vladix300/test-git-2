@@ -2,5 +2,5 @@ console.log(new Date())
 
 console.log(() => 3 + 31)
 
-const userName = "Patrick"
-const age = 43
+const user = 'Johnny'
+const age = '36'
